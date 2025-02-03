@@ -1,4 +1,4 @@
-### Hi there, I'm _zorous 👋
+### Hi there, I'm zorous 👋
  ---
 - 👀 I’m interested in [Python](https://www.python.org/) & [C++](https://cplusplus.com).
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/).
