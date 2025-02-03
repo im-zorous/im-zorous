@@ -2,7 +2,7 @@
  ---
 - 👀 I’m interested in [Python](https://www.python.org/) & [C++](https://cplusplus.com).
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/).
-- 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C#](https://dotnet.microsoft.com/en-us/languages/csharp) projects.
+- 💞️ I’m looking to collaborate on [Discord.py](https://discordpy.readthedocs.io/) bots and [C++](https://cplusplus.com).
 
 <img src="https://discord.c99.nl/widget/theme-3/854739849322823690.png"/>
 
